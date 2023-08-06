@@ -1,10 +1,10 @@
 ---
 description: Robust integrations powering a better decentralized future in Healthcare
-cover: .gitbook/assets/WORKINGBANNERCERT.png
+cover: broken-reference
 coverY: -143.05343511450383
 ---
 
-# 👋 Medicine and Artificial Intelligence
+# 🌯 Medicine and Artificial Intelligence
 
 
 
@@ -22,7 +22,7 @@ Current medical models in many flagship texts for post graduate studies are outd
 >
 > — From the [Mailchimp Marketing API docs](https://mailchimp.com/developer/marketing/docs/fundamentals/)
 
-## Quick links
+## Summary Links
 
 {% content-ref url="overview/what-we-do.md" %}
 [what-we-do.md](overview/what-we-do.md)

@@ -1,6 +1,6 @@
 # Table of contents
 
-* [👋 Medicine and Artificial Intelligence](README.md)
+* [🌯 Medicine and Artificial Intelligence](README.md)
 
 ## Overview
 
