@@ -1,4 +1,4 @@
-# 📪 Making a post
+# 📖 MedTech Blog
 
 ## Step 1 - Start journalling
 

@@ -2,17 +2,19 @@
 description: How creatives can integrate our tools to make more informed design choices.
 ---
 
-# 🎨 For Designers
+# 🖼 For Designers
 
 {% hint style="info" %}
 **Good to know:** depending on the product you're building, it can be useful to explicitly document use cases. Got a product that can be used by a bunch of people in different ways? Maybe consider splitting it out!
 {% endhint %}
 
-## Figma Integrations
+## Figma Integration
 
 {% tabs %}
 {% tab title="Installing" %}
 {% embed url="https://www.figma.com/community/plugin/950514102619019349/Automater" %}
+One of the most powerful integrations in GitBook IMO
+{% endembed %}
 {% endtab %}
 
 {% tab title="Configuring" %}

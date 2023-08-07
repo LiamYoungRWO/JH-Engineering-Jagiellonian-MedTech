@@ -1,4 +1,8 @@
-# 📎 Understanding Projects
+---
+description: Steer this where it all ends up heading when you have the time
+---
+
+# 🔭 Open Source Project
 
 ## How Projects work
 
