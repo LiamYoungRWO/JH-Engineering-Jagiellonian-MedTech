@@ -12,7 +12,7 @@ coverY: -143.05343511450383
 
 Current medical models in many flagship texts for post graduate studies are outdated in terms of dynamic imagry in line with current technological standards:
 
-> Syntek Block Health offers a dynamic and improved visual discriptor of medical models, along with interactive features that enhance user experience and retiention of subject matter.&#x20;
+> Medmodel offers a dynamic and improved visual discriptor of medical models, along with interactive features that enhance user experience and retiention of subject matter.&#x20;
 >
 > With Loom, you can record your camera, microphone, and desktop simultaneously. Your video is then instantly available to share through Loom's patented technology.
 >
