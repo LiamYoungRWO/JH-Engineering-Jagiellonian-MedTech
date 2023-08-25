@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <title>Medical Data Analysis Using R</title>
+
 </head>
 <body>
 
