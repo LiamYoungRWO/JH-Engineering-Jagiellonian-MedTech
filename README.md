@@ -5,7 +5,7 @@
 </head>
 <body>
 
-  <h1>Medical Data Analysis Using R</h1>
+ 
 
   <p>This repository contains an extensive R script designed for medical data analysis. The script is built to handle real-world medical data, focusing on patient information related to various conditions and treatments.</p>
 
