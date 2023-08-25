@@ -1,46 +1,32 @@
----
-description: Robust integrations powering a better decentralized future in Healthcare
-cover: broken-reference
-coverY: -143.05343511450383
----
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Medical Data Analysis Using R</title>
+</head>
+<body>
 
-# 🌯 Medicine and Artificial Intelligence
+  <h1>Medical Data Analysis Using R</h1>
 
+  <p>This repository contains an extensive R script designed for medical data analysis. The script is built to handle real-world medical data, focusing on patient information related to various conditions and treatments.</p>
 
+  <h2>Features</h2>
+  <ul>
+    <li>Data Pre-processing: Cleans and filters out irrelevant or incomplete records.</li>
+    <li>Exploratory Data Analysis (EDA): Provides summary statistics and basic analyses.</li>
+    <li>Data Visualization: Includes a bar chart visualizing the count of patients by medical condition and treatment type.</li>
+  </ul>
 
-## Overview
+  <h2>Requirements</h2>
+  <p>You'll need to have R and the 'tidyverse' package installed to run this script.</p>
 
-Current medical models in many flagship texts for post graduate studies are outdated in terms of dynamic imagry in line with current technological standards:
+  <h2>Usage</h2>
+  <p>To run the script, navigate to the repository directory and execute the R script using R or RStudio.</p>
 
-> Medmodel offers a dynamic and improved visual discriptor of medical models, along with interactive features that enhance user experience and retiention of subject matter.&#x20;
->
-> With Loom, you can record your camera, microphone, and desktop simultaneously. Your video is then instantly available to share through Loom's patented technology.
->
-> — From the [Loom Docs](https://support.loom.com/hc/en-us/articles/360002158057-What-is-Loom-)
+  <h2>Data Source</h2>
+  <p>The data used in this repository are sourced from a comprehensive medical database, anonymized to protect patient confidentiality.</p>
 
-> The many Solana platform based API's provide programmatic access to ecosystem data and functionality, allowing developers to incorporate platoform monitoring to do things like monitor analytics to incorporate into thier own databases and analytical models, predict potential audiences and campaigns, and more.
->
-> — From the [Mailchimp Marketing API docs](https://mailchimp.com/developer/marketing/docs/fundamentals/)
+  <h2>Contribution</h2>
+  <p>If you would like to contribute to this project, please feel free to fork the repository, make your changes, and create a pull request.</p>
 
-## Summary Links
-
-[what-we-do.md](overview/what-we-do.md)
-
-
-[our-features.md](overview/our-features.md)
-
-
-## Getting Started
-
-We've put together some helpful guides for you to get setup with our product quickly and easily.
-
-[getting-set-up](fundamentals/getting-set-up/)
-
-
-
-[setting-permissions.md](fundamentals/getting-set-up/setting-permissions.md)
-
-
-{% content-ref url="fundamentals/getting-set-up/inviting-members.md" %}
-[inviting-members.md](fundamentals/getting-set-up/inviting-members.md)
-{% endcontent-ref %}
+</body>
+</html>
