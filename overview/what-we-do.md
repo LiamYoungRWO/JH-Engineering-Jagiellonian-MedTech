@@ -1,7 +1,7 @@
-# 💡 What we do
+# 🦿 What we do
 
 {% hint style="info" %}
-**GitBook tip:** This is where we will embed a video for whatever product or service we're working with for this template. <mark style="color:yellow;">Embed a Loom, Vimeo or YouTube</mark> video and you're good to go! We love this video from the fine folks at Loom as a perfect example of a succinct feature overview.
+**This Section:** Import all content from other buid in GitBook
 {% endhint %}
 
 ## Video overview
