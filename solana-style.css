@@ -1,0 +1,20 @@
+body {
+    background-color: #101010;
+    color: #FFF;
+    font-family: Arial, sans-serif;
+}
+
+.container {
+    width: 80%;
+    margin: 50px auto;
+}
+
+.chart {
+    height: 400px;
+}
+
+h1 {
+    text-align: center;
+    color: #20BB9A; /* Solana color */
+}
+
