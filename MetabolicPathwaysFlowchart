@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Metabolic Pathways Flowchart</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+        }
+        .flowchart {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            margin-top: 20px;
+        }
+        .box {
+            border: 1px solid black;
+            padding: 10px;
+            margin: 10px;
+            text-align: center;
+        }
+        .arrow {
+            display: flex;
+            align-items: center;
+            justify-content: center;
+        }
+        .arrow::after {
+            content: '↓';
+            font-size: 24px;
+        }
+    </style>
+</head>
+<body>
+    <div class="flowchart">
+        <div class="box">
+            <strong>1. Glycolysis</strong><br>
+            Location: Cytoplasm<br>
+            Process: Breakdown of glucose into 2 pyruvate molecules<br>
+            Key Products: 2 ATP, 2 NADH
+        </div>
+        <div class="arrow"></div>
+        <div class="box">
+            <strong>2. Citric Acid Cycle (Krebs Cycle)</strong><br>
+            Location: Mitochondria<br>
+            Process: Conversion of Acetyl-CoA into energy-carrying molecules<br>
+            Key Products: NADH, FADH2, GTP (or ATP), CO2
+        </div>
+        <div class="arrow"></div>
+        <div class="box">
+            <strong>3. Oxidative Phosphorylation and Electron Transport Chain</strong><br>
+            Location: Inner mitochondrial membrane<br>
+            Process: Production of ATP using energy from NADH and FADH2<br>
+            Key Products: ATP, Water (Oxygen as the final electron acceptor)
+        </div>
+        <div class="arrow"></div>
+        <div class="box">
+            <strong>4. Pentose Phosphate Pathway</strong><br>
+            Location: Cytoplasm<br>
+            Process: Generation of NADPH and ribose-5-phosphate for nucleotide synthesis<br>
+            Key Products: NADPH, Ribose-5-phosphate
+        </div>
+        <!-- Add additional pathways here following the same structure -->
+    </div>
+</body>
+</html>
