@@ -1,6 +1,6 @@
 # Table of contents
 
-* [🌯 Medicine and Artificial Intelligence](README.md)
+* [🌯 Medical Technical Solutions in Learning](README.md)
 
 ## Overview
 
@@ -16,9 +16,9 @@
 
 * [📔 Setup](fundamentals/getting-set-up/README.md)
   * [📝 Setting permissions](fundamentals/getting-set-up/setting-permissions.md)
-  * [👩⚕ Inviting Members](fundamentals/getting-set-up/inviting-members.md)
+  * [👩‍⚕️ Inviting Members](fundamentals/getting-set-up/inviting-members.md)
 
 ## Use Cases
 
-* [🖼 For Designers](use-cases/for-designers.md)
-* [🖥 For Developers](use-cases/for-developers.md)
+* [🖼️ For Designers](use-cases/for-designers.md)
+* [🖥️ For Developers](use-cases/for-developers.md)
