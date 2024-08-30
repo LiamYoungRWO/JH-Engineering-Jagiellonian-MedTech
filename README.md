@@ -1,4 +1,4 @@
-# 🌯 Medical Technical Solutions in Learning
+# 🌯 Medical Technical Solutions: Multi Model with Dynamic Approaches
 
 This repository contains Python, Typesctipt, and R scripts designed for medical data analysis. The script is built to handle real-world medical data, focusing on patient information related to various conditions and treatments.
 
