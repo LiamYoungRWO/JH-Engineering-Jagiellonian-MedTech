@@ -1,8 +1,8 @@
 # 🌯 Medical Technical Solutions in Learning
 
-This repository contains an extensive R script designed for medical data analysis. The script is built to handle real-world medical data, focusing on patient information related to various conditions and treatments.
+This repository contains Python, Typesctipt, and R scripts designed for medical data analysis. The script is built to handle real-world medical data, focusing on patient information related to various conditions and treatments.
 
-### Features
+### Features: R Script
 
 * Data Pre-processing: Cleans and filters out irrelevant or incomplete records.
 * Exploratory Data Analysis (EDA): Provides summary statistics and basic analyses.
